@@ -1,0 +1,2 @@
+The MV utility is a way to take one file or folder and move it to another desitnation. You start by typing "mv" in shell, then the file you want to move, followed by where you want to move it to.
+
